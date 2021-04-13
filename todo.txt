@@ -1,0 +1,10 @@
+1- Limitar los ceros consecutivos luego de un símbolo. ---- DONE
+2- Insertar saltos entre los símbolos. --------- DONE
+3- Limitar la cantidad de digitos que puede tener un número. ------------ DONE
+4- Revisar punto 13 FCC. (Toda la lógica de los símbolos). ------------DONE
+5- Agregar lógica del punto 14 FCC ------------- DONE
+6- Los resultados deben ser de al menos 4 decimales. --------------DONE
+7- Agregar los botones como eventos. X 
+8- Escribir la lógica para el botón de igualdad. X
+9- Dar últimos toques a CSS
+10- Ícono para el head
